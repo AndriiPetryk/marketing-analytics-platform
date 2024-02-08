@@ -1,0 +1,18 @@
+{
+  "name": "marketing-analytics-platform",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Marketing analytics application built with the MERN stack",
+  "scripts": {
+    "client": "npm start --prefix frontend"
+  },
+  "author": "Marketing analytics dev team",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "jsonwebtoken": "^9.0.0"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
